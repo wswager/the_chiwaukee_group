@@ -1,7 +1,7 @@
+***
 ![chicago_pic.jpg](https://github.com/wswager/the_chiwaukee_group/blob/main/images/chicago_pic.jpg)
 ***
 # The Chiwaukee Group
-![crane_logo.jpg](https://github.com/wswager/the_chiwaukee_group/blob/main/images/crane_logo.jpg)
 
 A startup real estate development firm looking to capitalize on growth and business development in the geographic area between Chicago, Illinois and Milwaukee, Wisconsin, through investment in new residential projects.
 
@@ -66,9 +66,9 @@ Monthly median housing sales values between 1997 and 2017 downloaded from [Zillo
 ***
 ***
 # The Chiwaukee Group
-![crane_logo.jpg](https://github.com/wswager/the_chiwaukee_group/blob/main/images/crane_logo.jpg)
 ***
 ![milwaukee_pic.jpg](https://github.com/wswager/the_chiwaukee_group/blob/main/images/milwaukee_pic.jpg)
+***
 # Thank You
 
 ### Wes Swager
