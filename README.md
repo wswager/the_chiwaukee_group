@@ -36,12 +36,15 @@ The two cities are connected by a major interstate, I-94, as well as a train rou
 # Evaluation Metrics
 
 **Risk**
+
 Evaluated through Coefficient of Variance, ratio of the standard deviation to the mean, with an upper-limit set at 50%
 
 **Historic Return on Investment**
+
 Areas with prove return on investment, with a threshold of top 25% across the existing data’s timeframe
 
 **Expected Future Returns**
+
 Final recommendations will be based on future returns
 ***
 # Data
