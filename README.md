@@ -50,17 +50,16 @@ Monthly median housing sales values between 1997 and 2017 downloaded from [Zillo
 ![chi_mke_data.PNG](https://github.com/wswager/the_chiwaukee_group/blob/main/images/chi_mke_data.PNG)
 
 ### Working Zipcodes
-
-60047 - Lake Zurich, IL
-53142 - Kenosha, IL
-53144 - Kenosha, IL
-53158 - Pleasant Prairie, WI
-53181 - Twin Lakes, WI
-53108 - Caledonia, WI
-53139 - Eagle Lake, WI
-53404 - Racine, WI
-53405 - Racine, WI
-53185 - Waterford, WI
+* 60047 - Lake Zurich, IL
+* 53142 - Kenosha, IL
+* 53144 - Kenosha, IL
+* 53158 - Pleasant Prairie, WI
+* 53181 - Twin Lakes, WI
+* 53108 - Caledonia, WI
+* 53139 - Eagle Lake, WI
+* 53404 - Racine, WI
+* 53405 - Racine, WI
+* 53185 - Waterford, WI
 
 ![monthly_price_v_zipcode.png](https://github.com/wswager/the_chiwaukee_group/blob/main/images/monthly_price_v_zipcode.png)
 ***
